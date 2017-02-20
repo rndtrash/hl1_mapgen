@@ -1,0 +1,14 @@
+{
+"classname" "worldspawn"
+"sounds" "1"
+"MaxRange" "32768"
+"newunit" "1"
+"scversion2" "510"
+"mapversion" "220"
+"wad" "\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\decals.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\gfx.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\halflife.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\lcd_display.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\liquids.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\svencoop1.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\svencoop2.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\xeno.wad;\home\ivan\.local\share\steam\steamapps\common\sven co-op\svencoop\zhlt.wad"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 0 0"
+"origin" "-128 128 48"
+}

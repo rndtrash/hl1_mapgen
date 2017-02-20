@@ -1,0 +1,13 @@
+name: hl1_mapgen
+version: 0.1.0
+
+authors:
+  - Ivan Kuzmenko <kuzmenko.ivan2002@yandex.com>
+
+targets:
+  hl1_mapgen:
+    main: src/hl1_mapgen.cr
+
+crystal: 0.20.5
+
+license: MIT
