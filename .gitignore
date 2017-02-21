@@ -3,3 +3,7 @@
 /bin/
 /.shards/
 bin/
+# Test maps
+*.map
+*.max
+*.dxf

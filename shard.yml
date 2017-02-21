@@ -8,6 +8,10 @@ targets:
   hl1_mapgen:
     main: src/hl1_mapgen.cr
 
+dependencies:
+  perlin_noise:
+    github: redcodefinal/perlin_noise
+
 crystal: 0.20.5
 
 license: MIT

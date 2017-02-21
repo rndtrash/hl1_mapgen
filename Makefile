@@ -7,9 +7,11 @@ RELEASE = --release
 DEBUG = --debug
 
 all:
+	$(CC) deps
 	$(COMPILE) $(RELEASE)
 
 debug:
+	$(CC) deps
 	$(COMPILE) $(DEBUG)
 
 run:
