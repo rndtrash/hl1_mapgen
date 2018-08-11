@@ -1,6 +1,6 @@
-# hl1_mapgen [![Build Status](https://travis-ci.org/iVAN2002/hl1_mapgen.svg?branch=master)](https://travis-ci.org/iVAN2002/hl1_mapgen)
+# hl1_mapgen
 
-TODO: Write a description here
+Этот репозиторий архивирован. Тут больше не будет ничего нового.
 
 ## Installation
 
